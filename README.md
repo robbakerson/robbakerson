@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robbakerson
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development | Mobile iOS Swift
 - 🌱 I’m currently learning Javascript Frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
